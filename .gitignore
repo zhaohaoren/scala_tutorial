@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+*.class
+*.log
+=======
+# Created by .ignore support plugin (hsz.mobi)
+### Scala template
+*.class
+*.log
+
+*.iml
+.idea
+>>>>>>> 3efd924... init
